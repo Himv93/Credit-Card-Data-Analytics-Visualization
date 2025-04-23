@@ -6,4 +6,4 @@
 ## Method Used:
 -Data cleaning and transformation, KPI calculation and dashboard design.
 ## Result:
--Delivered a fully functional, user-friendly dashboard that enabled card service provider to: -Monitor transaction trends, customer behavior and product performance by Age-Group,Region,Gender and Card category. -Improve decision-making through real-time insights.
+-Delivered a fully functional, user-friendly dashboard that enabled card service provider to: -Monitor transaction trends, customer behavior and Card performance by Age-Group,Region,Gender and Card category. -Improve decision-making through real-time insights.
